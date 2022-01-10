@@ -1,2 +1,3 @@
-# physalia_python_2022
+# Python for Data Analysis
+
 Notebook from Python Lessons
